@@ -1,0 +1,15 @@
+# Emacs temporary files
+*~
+
+# Python files
+*.pyc
+__pycache__
+
+# Jupyter notebook files
+.ipynb_checkpoints
+
+# Temporary folder
+tmp/
+
+# Virtual env
+venv*
